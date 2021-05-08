@@ -6,8 +6,8 @@ import Footer from 'components/Footer';
 import NavBar from 'components/NavBar';
 const Dashboard = () => {
     return (
-        <div>Página Dashboard
-
+        
+        <div>
             <>
                 <NavBar />
                 <div className="container">
